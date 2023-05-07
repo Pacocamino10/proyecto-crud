@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "paola perez garrido",
+    "coches": [
+      {
+        "marca": "Ford",
+        "modelo": "Focus",
+        "averia": "pintura"
+      },
+      {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "averia": "motor"
+      }
+    ]
+  },
+  {
+    "nombre": "antonio lopez",
+    "coches": [
+      {
+        "marca": "Bmw",
+        "modelo": "Serie 3",
+        "averia": "neumaticos"
+      }
+    ]
+  },
+  {
+    "nombre": "jesus perez perez",
+    "coches": [
+      {
+        "marca": "Merecedes Benz",
+        "modelo": "Clase C",
+        "averia": "pintura"
+      },
+      {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "averia": "neumaticos"
+      },
+      {
+        "marca": "Land Rover",
+        "modelo": "Frelander",
+        "averia": "motor"
+      }
+    ]
+  },
+  {
+    "nombre": "dani funes",
+    "coches": [
+      {
+        "marca": "Masserati",
+        "modelo": "Levante",
+        "averia": "neumaticos"
+      },
+      {
+        "marca": "Ferrari",
+        "modelo": "488",
+        "averia": "motor"
+      }
+    ]
+  },
+  {
+    "nombre": "fran gonzalez",
+    "coches": [
+      {
+        "marca": "Audi",
+        "modelo": "a7",
+        "averia": "neumaticos"
+      }
+    ]
+  },
+  {
+    "nombre": "javier cubero",
+    "coches": [
+      {
+        "marca": "Merecedes Benz",
+        "modelo": "Clase E",
+        "averia": "pintura"
+      },
+      {
+        "marca": "Seat",
+        "modelo": "Ibiza",
+        "averia": "neumaticos"
+      }
+    ]
+  },
+  {
+    "nombre": "Benjamin Perez",
+    "coches": [
+      {
+        "marca": "Seat",
+        "modelo": "Ateca",
+        "averia": "pintura"
+      },
+      {
+        "marca": "Bmw",
+        "modelo": "X6",
+        "averia": "motor"
+      }
+    ]
+  }
+]

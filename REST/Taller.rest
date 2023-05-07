@@ -1,0 +1,53 @@
+
+@hostname = http://localhost
+@port = 3001
+@host = {{hostname}}:{{port}}
+
+
+### ver talleres
+GET   {{host}}/api/talleres/
+Content-Type: application/json
+
+### añadir taller
+POST  {{host}}/api/talleres/
+Content-Type: application/json
+
+	{"nombre" : "Prueba",
+	"especialidad" : "pintura",
+	"diasLibres" : ["3","5","9","14"]
+	// Agregar campo para los días libres del taller
+	
+	}
+
+
+### ver talleres por especialidad   
+GET   {{host}}/api/talleres/pintura
+Content-Type: application/json
+
+
+### actualizar taller por id  
+PUT    {{host}}/api/talleres/64568c6db7f4026797eb64cf
+Content-Type: application/json
+
+
+{
+	"nombre" :"FastEngine-Update",
+	"especialidad": "motor",
+	"diasLibres": [
+      "1",
+      "2"
+      
+    ]
+}
+
+
+### CITA POR TALLER
+
+post    {{host}}/api/talleres/64568a7abccb14911fa1f338/citas
+Content-Type: application/json
+
+{
+	"fecha" : "7",
+	"usuario" : "645685db7fbae3ec50a58a37",
+	"coche" : "645685fa7fbae3ec50a58a3a"
+}

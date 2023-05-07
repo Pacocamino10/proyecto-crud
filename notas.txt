@@ -1,0 +1,13 @@
+clientes{registro , loginm}
+
+coches{}
+
+taller{}
+
+---------------------
+Que va poder hacer el cliente?
+-ver talleres disponibles
+-ver talleres dosponibles por especialidad.
+-ver todos los coches por usuario.
+-Pedir cita.
+-registar nuevo coche

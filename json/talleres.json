@@ -1,0 +1,35 @@
+ [
+    {
+      "nombre": "Taller González",
+      "especialidad": ["pintura", "motor"],
+      "plazasTotales": 6,
+      "plazasLibres":3
+    },
+    {
+        "nombre": "LopezCars",
+        "especialidad": ["neumaticos", "motor"],
+        "plazasTotales": 10,
+      "plazasLibres":1
+    },
+    {
+        "nombre": "Taller Tartessos",
+        "especialidad": ["pintura", "neumaticos"],
+        "plazasTotales": 4,
+        "plazasLibres":1   },
+    {
+        "nombre": "Taller González",
+        "especialidad": ["neumaticos"],
+        "plazasTotales": 10,
+        "plazasLibres":6   },
+    {
+        "nombre": "Taller Guzman",
+        "especialidad": ["motor"],
+        "plazasTotales": 6,
+        "plazasLibres":3    },
+    {
+        "nombre": "Hispano Racing",
+        "especialidad": ["pintura", "motor"],
+        "plazasTotales": 5,
+        "plazasLibres":2    }
+  ]
+

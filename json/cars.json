@@ -1,0 +1,58 @@
+[
+    {
+      "propìetario":"64521dc7619dab88d511df61" ,
+      "marca": "Bmw",
+      "modelo": "e90",
+      "averia":"pintura"
+    },
+    {
+      "propìetario": "64521dc7619dab88d511df62",
+      "marca": "Audi",
+      "modelo": "q5",
+      "averia":"neumaticos"
+    },
+    {
+      "propìetario": "64521dc7619dab88d511df62",
+      "marca": "Porsche",
+      "modelo": "Cayenne",
+      "averia":"neumaticos"
+    },
+    {
+      "propìetario": "64521dc7619dab88d511df61",
+      "marca": "Seat",
+      "modelo": "Leon",
+      "averia":"pintura"
+    },
+    {
+      "propìetario": "64521dc7619dab88d511df63",
+      "marca": "Skoda",
+      "modelo": "Octavia",
+      "averia": "pintura"
+    },
+    {
+      "propìetario": "64521dc7619dab88d511df64",
+      "marca":"Smart",
+      "modelo": "1",
+      "averia":"pintura"
+    },
+    {
+      "propìetario": "64521dc7619dab88d511df65",
+      "marca":"Audi",
+      "modelo": "a6",
+      "averia":"pintura"
+    }
+    ,
+    {
+      "propìetario": "64521dc7619dab88d511df66",
+      "marca":"Bmw",
+      "modelo": "E83",
+      "averia":"neumaticos"
+    }
+    ,
+    {
+      "propìetario": "64521dc7619dab88d511df67",
+      "marca":"Audi",
+      "modelo": "TT",
+      "averia":"pintura"
+    }
+  ]
